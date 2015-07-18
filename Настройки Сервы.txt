@@ -1,0 +1,1 @@
+var kind = new ServoKind(stop : 0, zero : 1505000, min :  800000, max : 2210000, period : 20000000);

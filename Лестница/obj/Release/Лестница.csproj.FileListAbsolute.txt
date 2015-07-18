@@ -1,0 +1,7 @@
+C:\Users\AHTOH\Documents\Visual Studio 2013\Projects\Лестница\Лестница\bin\Release\Лестница.exe.config
+C:\Users\AHTOH\Documents\Visual Studio 2013\Projects\Лестница\Лестница\bin\Release\Лестница.exe
+C:\Users\AHTOH\Documents\Visual Studio 2013\Projects\Лестница\Лестница\bin\Release\Лестница.pdb
+C:\Users\AHTOH\Documents\Visual Studio 2013\Projects\Лестница\Лестница\bin\Release\Trik.Core.dll
+C:\Users\AHTOH\Documents\Visual Studio 2013\Projects\Лестница\Лестница\obj\Release\Лестница.exe
+C:\Users\AHTOH\Documents\Visual Studio 2013\Projects\Лестница\Лестница\obj\Release\Лестница.pdb
+C:\Users\AHTOH\Documents\Visual Studio 2013\Projects\Лестница\Лестница\obj\Release\Лестница.csprojResolveAssemblyReference.cache
